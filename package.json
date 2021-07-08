@@ -1,0 +1,23 @@
+{
+  "name": "Weather-App",
+  "version": "1.0.0",
+  "description": "Get Weather details with this We Application",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "tailwindcss build -i ./Assets/styles/build.css -o ./Assets/styles/tailwind.css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/srikartopella/Weather-App.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/srikartopella/Weather-App/issues"
+  },
+  "homepage": "https://github.com/srikartopella/Weather-App#readme",
+  "dependencies": {
+    "tailwindcss": "^2.2.4"
+  }
+}
